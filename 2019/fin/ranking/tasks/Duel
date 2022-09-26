@@ -1,0 +1,16 @@
+{
+    "name": "\u6c7a\u9b25",
+    "short_name": "Duel",
+    "contest": "2019TNFSHFinal",
+    "max_score": 100,
+    "extra_headers": [
+        "Subtask 1 (1)",
+        "Subtask 2 (18)",
+        "Subtask 3 (27)",
+        "Subtask 4 (23)",
+        "Subtask 5 (31)"
+    ],
+    "order": 0,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

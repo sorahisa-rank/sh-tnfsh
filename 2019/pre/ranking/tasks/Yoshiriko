@@ -1,0 +1,16 @@
+{
+    "name": "\u68a8\u5584\u5bcc\u9e97\u591c\uff0e\u8b8a\u5e7b",
+    "short_name": "Yoshiriko",
+    "contest": "2019TNFSHPre",
+    "max_score": 100,
+    "extra_headers": [
+        "Subtask 1 (9)",
+        "Subtask 2 (11)",
+        "Subtask 3 (20)",
+        "Subtask 4 (29)",
+        "Subtask 5 (31)"
+    ],
+    "order": 1,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

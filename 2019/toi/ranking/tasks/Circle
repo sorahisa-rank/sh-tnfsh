@@ -1,0 +1,14 @@
+{
+    "name": "E. \u91ce\u6d77\u718a\u9632\u8b77\u5708",
+    "short_name": "Circle",
+    "contest": "20200213_2dTOI_5fPre",
+    "max_score": 100,
+    "extra_headers": [
+        "Subtask 1 (13)",
+        "Subtask 2 (23)",
+        "Subtask 3 (64)"
+    ],
+    "order": 4,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

@@ -1,0 +1,13 @@
+{
+    "name": "\u597d\u54c8\u5feb\u6377\u9375",
+    "short_name": "Shortcut",
+    "contest": "2019TNFSHPre",
+    "max_score": 100,
+    "extra_headers": [
+        "Subtask 1 (25)",
+        "Subtask 2 (75)"
+    ],
+    "order": 0,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

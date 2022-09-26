@@ -1,0 +1,12 @@
+{
+    "name": "\u793e\u90e8\u7684\u5bc6\u78bc\u9396",
+    "short_name": "Locker",
+    "contest": "2019TNFSHPre",
+    "max_score": 100,
+    "extra_headers": [
+        "Subtask 1 (100)"
+    ],
+    "order": 5,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

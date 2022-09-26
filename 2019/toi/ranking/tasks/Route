@@ -1,0 +1,16 @@
+{
+    "name": "B. \u5b8c\u7f8e\u6cb3\u9053",
+    "short_name": "Route",
+    "contest": "20200213_2dTOI_5fPre",
+    "max_score": 100,
+    "extra_headers": [
+        "Subtask 1 (5)",
+        "Subtask 2 (10)",
+        "Subtask 3 (15)",
+        "Subtask 4 (20)",
+        "Subtask 5 (50)"
+    ],
+    "order": 1,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

@@ -1,0 +1,15 @@
+{
+    "name": "C. Puyo",
+    "short_name": "Puyo",
+    "contest": "20200213_2dTOI_5fPre",
+    "max_score": 100,
+    "extra_headers": [
+        "Subtask 1 (5)",
+        "Subtask 2 (10)",
+        "Subtask 3 (15)",
+        "Subtask 4 (70)"
+    ],
+    "order": 2,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}
