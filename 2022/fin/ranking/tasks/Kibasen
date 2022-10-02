@@ -1,0 +1,14 @@
+{
+    "name": "A. \u9a0e\u99ac\u6253\u4ed7",
+    "short_name": "Kibasen",
+    "contest": "20220930_2dTNFSH_2dFinal",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (0)",
+        "Subtask 2 (32)",
+        "Subtask 3 (68)"
+    ],
+    "order": 0,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

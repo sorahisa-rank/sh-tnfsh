@@ -28,7 +28,9 @@
 -   2022
     -   初選
         -   [題本](https://sorahisa-rank.github.io/sh-tnfsh/2022/pre/problems.pdf)
+        -   [題解](https://sorahisa-rank.github.io/sh-tnfsh/2022/pre/editorial.pdf)
         -   [正式賽](https://sorahisa-rank.github.io/sh-tnfsh/2022/pre/ranking/)
     -   複選
-        -   題本
-        -   正式賽
+        -   [題本](https://sorahisa-rank.github.io/sh-tnfsh/2022/fin/problems.pdf)
+        -   [題解](https://sorahisa-rank.github.io/sh-tnfsh/2022/fin/editorial.pdf)
+        -   [正式賽](https://sorahisa-rank.github.io/sh-tnfsh/2022/fin/ranking/)

@@ -1,0 +1,14 @@
+{
+    "name": "C. \u661f\u661f\u7375\u624b",
+    "short_name": "StarHunter",
+    "contest": "20220930_2dTNFSH_2dFinal",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (0)",
+        "Subtask 2 (49)",
+        "Subtask 3 (51)"
+    ],
+    "order": 2,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

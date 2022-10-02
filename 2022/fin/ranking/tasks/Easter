@@ -1,0 +1,16 @@
+{
+    "name": "D. \u5fa9\u6d3b\u7bc0\u5f69\u86cb",
+    "short_name": "Easter",
+    "contest": "20220930_2dTNFSH_2dFinal",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (0)",
+        "Subtask 2 (16)",
+        "Subtask 3 (22)",
+        "Subtask 4 (21)",
+        "Subtask 5 (41)"
+    ],
+    "order": 3,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

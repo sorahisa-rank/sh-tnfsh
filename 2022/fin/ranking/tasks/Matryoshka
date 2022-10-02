@@ -1,0 +1,14 @@
+{
+    "name": "B. \u99ac\u7279\u7559\u4ec0\u5361",
+    "short_name": "Matryoshka",
+    "contest": "20220930_2dTNFSH_2dFinal",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (0)",
+        "Subtask 2 (26)",
+        "Subtask 3 (74)"
+    ],
+    "order": 1,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}
