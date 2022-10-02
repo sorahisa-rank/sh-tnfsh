@@ -19,10 +19,12 @@
 -   2021
     -   初選
         -   [題本](https://sorahisa-rank.github.io/sh-tnfsh/2021/pre/problems.pdf)
+        -   [題解](https://sorahisa-rank.github.io/sh-tnfsh/2021/pre/editorial.pdf)
         -   [正式賽](https://sorahisa-rank.github.io/sh-tnfsh/2021/pre/ranking/)
-    
+        
     -   複選
         -   [題本](https://sorahisa-rank.github.io/sh-tnfsh/2021/fin/problems.pdf)
+        -   [題解](https://sorahisa-rank.github.io/sh-tnfsh/2021/fin/editorial.pdf)
         -   [正式賽](https://sorahisa-rank.github.io/sh-tnfsh/2021/fin/ranking/)
     
 -   2022
